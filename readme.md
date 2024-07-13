@@ -70,10 +70,6 @@ Sebagai seorang Dokter, saya ingin mengetahui riwayat pasien yang telah saya per
 
 4. Sesuaikan pengaturan sistem sesuai kebutuhan.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah [Bengkel Koding](https://bengkelkoding.dinus.ac.id/).
-
 ## Pengakuan
 
 - Terima kasih khusus kepada [Bootstrap](https://getbootstrap.com/) atas menyediakan kerangka desain responsif.
